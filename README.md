@@ -1,2 +1,2 @@
-# resume
+# Resume
 Thrishan's Resume
